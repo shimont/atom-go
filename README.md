@@ -99,5 +99,5 @@ MIT
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/ironSource/atom-go.svg?style=flat-square
 [travis-url]: https://travis-ci.org/ironSource/atom-go
-[goreport-image]: https://goreportcard.com/badge/github.com/ironSource/atom-go
+[goreport-image]: https://goreportcard.com/badge/github.com/ironSource/atom-go?style=flat-square
 [goreport-url]: https://goreportcard.com/report/github.com/ironSource/atom-go
